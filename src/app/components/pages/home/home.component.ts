@@ -19,6 +19,9 @@ export class HomeComponent implements OnInit {
   baseApiUrl = environment.baseApiUrl
 
   //todo search
+  faSearch = faSearch
+  searchTerm: string = '';
+
 
 
   constructor(private momentService: MomentService) { }
@@ -38,5 +41,13 @@ export class HomeComponent implements OnInit {
     });
   }
 
+  search(e: Event): void {
+    const target = e.target as HTMLInputElement;
+    const value = target.value;
+
+    this.moments = this.allMoments.filter((moment) =>
+      moment.title.toLowerCase().includes(value)
+    );
+  }
 
 }
