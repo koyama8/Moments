@@ -7,7 +7,7 @@ Este projeto foi criado com o [Angular CLI](https://github.com/angular/angular-c
 
 ## 📹 Apresentação do Projeto
 
-[Assista ao vídeo de demonstração](https://drive.google.com/file/d/1bhojVrJQf6ajFt8_hdJXLfvE2ejpNy2l/view?usp=sharing)
+[Assista ao vídeo de demonstração](https://drive.google.com/file/d/105ON3DK1aiIYncksDoJGn6qa9N8GyiPE/view?usp=sharing)
 
 ## 🚀 Como instalar
 
