@@ -9,6 +9,7 @@ nav{
    display: flex;
    justify-content: center;
    align-items: center;
+
 }
 
 .brand img{
@@ -25,7 +26,7 @@ nav{
 }
 
 .links li{
-  margin-right: 1em;
+  margin-right: 25em;
   list-style: none;
 }
 
@@ -33,8 +34,8 @@ nav{
   padding: 0.1em .3em;
 }
 
-#add a{
-  color: #dec129;
+#add a {
+  color: #000000;
 }
 
 #add a:hover{
