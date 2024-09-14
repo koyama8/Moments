@@ -3,7 +3,7 @@
 Este projeto foi criado com o [Angular CLI](https://github.com/angular/angular-cli) versão 13.3.11.
 
 > [!IMPORTANT]
-> O Projeto Moments é um sistema inspirado no Instagram, onde os usuários podem compartilhar seus melhores momentos com amigos. Os dados são consumidos por uma API e podem ser filtrados através de requisições do Front-End. O sistema permite a edição, exclusão e adição de comentários aos momentos compartilhados, com suporte a um banco de dados relacional.
+> O Projeto VistaVault é um sistema inspirado no Instagram, onde os usuários podem compartilhar seus melhores momentos com amigos. Os dados são consumidos por uma API e podem ser filtrados através de requisições do Front-End. O sistema permite a edição, exclusão e adição de comentários aos momentos compartilhados, com suporte a um banco de dados relacional.
 
 ## 📹 Apresentação do Projeto
 
