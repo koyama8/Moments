@@ -11,7 +11,7 @@ Este projeto foi criado com o [Angular CLI](https://github.com/angular/angular-c
 
 ## 🚀 Como instalar
 
-- Baixe ou clone este repositório usando `git clone https://github.com/koyama8/Moments.git`;
+- Baixe ou clone este repositório usando `git clone https://github.com/koyama8/VistaVault.git`;
 - Dentro do diretório, instale as dependências usando `npm install`.
 
 ## 📜 Principais funcionalidades
